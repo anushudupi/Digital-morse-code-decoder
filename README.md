@@ -5,7 +5,7 @@
 ### [Anush](https://github.com/anushudupi)
 ### [SreeDev](
 ### [Nakul](https://github.com/Nakul097)
-## Task(Hackathon project)
+## Task
 Morse code was an important milestone in the field of wireless
 communication. It was intensively used by the military and was also
 used for urgent communication for the public in the name of Telegraph.
@@ -15,9 +15,28 @@ circuit capable of deciphering a received morse code and displaying the
 same in ASCII characters to the user.
 
 [Tri-NIT_Hackathon_Problem_Statements.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996450/Tri-NIT_Hackathon_Problem_Statements.pdf)
+## Introduction
+Morse Code was an important milestone in the field of wireless communication. It was intensively used by the military and was also used for urgent communication for the public in the name of telegraph. However, transmitting and deciphering a received Telegraph is not everyone’s cup of tea. Here in this problem Statement we have created a circuit which is capable of deciphering a received Morse Code and display the same using ASCII characters in TeleTYpewriter (TTP) in Logisim
+Morse code can be memorized and sent in a form perceptible to the human senses, e.g. via sound waves or visible light, such that it can be directly interpreted by persons trained in the skill. Morse code is usually transmitted by on-off keying of an information-carrying medium such as electric current, radio waves, visible light, or sound waves. In Morse Code there is no distinction between upper and lower case letters.Each Morse code symbol is formed by a sequence of dots and dash. The dot duration is the basic unit of time measurement in Morse code transmission. The duration of a dash is three times the duration of a dot. Each dit or dah within an encoded character is followed by a period of signal absence, called a space, equal to the dot duration. The letters of a word are separated by a space of duration equal to three dots, and words are separated by a space equal to seven dots.
 
+In digital(up=1,silence=0) 
 
+1 up and then a silence - dot
+
+3 ups and then a silence - dash
+
+3 silences - end of a letter
+
+7 silences - end of a word ( basically [space] )
+
+## Files
 https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4
+
+## Reference
+[Morse-code.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996632/Morse-code.pdf)
+
+[ASCII.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996649/ASCII.pdf)
+
 ## Morse code decoder(main)
 ![morsedecoder](https://user-images.githubusercontent.com/85610551/152358267-7c8d594f-eebe-453d-9eb7-bf42d7f8f7d1.JPG)
 ### Morse code decoder/Morse code generator
