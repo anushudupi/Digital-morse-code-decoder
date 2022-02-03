@@ -1,6 +1,21 @@
 
 # Morse code decoder
-hackathon project
+
+## Contributors  
+### [Anush](https://github.com/anushudupi)
+### [SreeDev](
+### [Nakul](https://github.com/Nakul097)
+## Task(Hackathon project)
+Morse code was an important milestone in the field of wireless
+communication. It was intensively used by the military and was also
+used for urgent communication for the public in the name of Telegraph.
+However, transmitting and deciphering a received Telegraph is not
+everyone’s cup of tea. The problem statement demands you to make a
+circuit capable of deciphering a received morse code and displaying the
+same in ASCII characters to the user.
+
+[Tri-NIT_Hackathon_Problem_Statements.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996450/Tri-NIT_Hackathon_Problem_Statements.pdf)
+
 
 https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4
 ## Morse code decoder(main)
