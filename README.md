@@ -30,9 +30,10 @@ In digital(up=1,silence=0)
 7 silences - end of a word ( basically [space] )
 
 ## Files
+### Final
 https://drive.google.com/drive/folders/1yJH6w9lxCEnoJd0chz5zCAzFOpXdqdZg?usp=sharing
-
-https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4
+### Intial
+https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4 (uploaded during hackathon)
 
 ## Reference
 [Morse-code.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996632/Morse-code.pdf)
