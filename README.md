@@ -30,6 +30,8 @@ In digital(up=1,silence=0)
 7 silences - end of a word ( basically [space] )
 
 ## Files
+https://drive.google.com/drive/folders/1yJH6w9lxCEnoJd0chz5zCAzFOpXdqdZg?usp=sharing
+
 https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4
 
 ## Reference
