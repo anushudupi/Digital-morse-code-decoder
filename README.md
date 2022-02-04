@@ -51,6 +51,14 @@ https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4
 ![e5](https://user-images.githubusercontent.com/85610551/152384079-3b2d223c-51fd-490a-a947-1393ec6ea27a.png)
 ### Morse code decoder/ASCII-Mux
 ![b](https://user-images.githubusercontent.com/85610551/152383585-e3f6a978-504b-41c1-81f4-737d6cf69bb7.png)
+## Results
+### Test1
+![result1](https://user-images.githubusercontent.com/85610551/152472934-7de4244c-e653-44ae-b632-bb40ced3a1db.JPG)
+### Test2
+![result2](https://user-images.githubusercontent.com/85610551/152472968-305eb300-9df3-42da-bd2b-ad99fda05ef5.JPG)
+### Test3
+![result3](https://user-images.githubusercontent.com/85610551/152473026-586fb88f-a2df-4386-ae0f-d8520af0a342.JPG)
+
 
 
 
