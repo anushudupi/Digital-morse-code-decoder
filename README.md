@@ -34,9 +34,9 @@ In digital(up=1,silence=0)
 ### [Intial](https://drive.google.com/drive/folders/1mTbiGEmxeH25vwohN_S6ppNQG2GvWpt4) (uploaded during hackathon)
 
 ## Reference
-### [Morse-code.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996632/Morse-code.pdf)
+### [Morse-code.pdf](https://github.com/anushudupi/Digital-morse-code-decoder/files/7996632/Morse-code.pdf)
 
-### [ASCII.pdf](https://github.com/anushudupi/TRINIT_Pi-X3L_EC01/files/7996649/ASCII.pdf)
+### [ASCII.pdf](https://github.com/anushudupi/Digital-morse-code-decoder/files/7996649/ASCII.pdf)
 
 ## Morse code decoder(main)
 ![morsedecoder](https://user-images.githubusercontent.com/85610551/152358267-7c8d594f-eebe-453d-9eb7-bf42d7f8f7d1.JPG)
